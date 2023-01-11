@@ -10,5 +10,5 @@ When you click the "Recommend Movies" button, app return messageboc with result 
 
 ![image](https://user-images.githubusercontent.com/56371622/211932076-dafff429-1079-4e7b-90e2-d778dfdb7353.png)
 
-When you click "Show cosine similarities" button scatter plot of vector is shown.
+When you click "Show Cosine Similarities" button scatter plot of vector is shown.
 ![image](https://user-images.githubusercontent.com/56371622/211932563-9c240e07-c5f1-47af-83f0-11e4352dd1cf.png)
